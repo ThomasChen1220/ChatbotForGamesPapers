@@ -11,3 +11,8 @@ https://www-sciencedirect-com.libproxy1.usc.edu/science/article/pii/S01678655203
 
 https://www.aclweb.org/anthology/W18-5031.pdf
 
+https://dl.acm.org/doi/abs/10.1145/967900.967913
+
+https://arxiv.org/abs/1709.05298
+
+https://pdfs.semanticscholar.org/af1f/6f82ce82c592e0e0214d669b7abb813d014a.pdf
